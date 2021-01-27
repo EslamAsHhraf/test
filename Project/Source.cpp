@@ -46,5 +46,5 @@ int main()
 	cout << "X=" << X << endl;
 	//X = A<=(15<=B); //Line1
 	A = B = C; //Line2
-	
+//eee	
 }
